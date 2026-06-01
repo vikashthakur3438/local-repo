@@ -1,0 +1,23 @@
+*   [33m488746b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m new paragraph
+[31m|[m[32m\[m  
+[31m|[m * [33m1f6528d[m[33m ([m[1;31morigin/feature1[m[33m, [m[1;32mfeature1[m[33m)[m new text vikash
+[31m|[m * [33mfd1e6d5[m add new text
+[31m|[m * [33m88e456f[m new text
+* [32m|[m [33m16d87cc[m new text
+* [32m|[m [33m191acfe[m new text
+* [32m|[m [33m17c9af4[m new local
+* [32m|[m [33m7bbd62b[m new text
+* [32m|[m [33mb0dc724[m new paragrph
+[32m|[m [32m|[m *   [33mbd1bb13[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Merge branch 'main' of https://github.com/vikashthakur3438/local-repo
+[32m|[m [32m|[m [33m|[m[32m\[m  
+[32m|[m [32m|[m [33m|[m[32m/[m  
+[32m|[m [32m|[m[32m/[m[33m|[m   
+[32m|[m * [33m|[m [33m843d2f5[m Merge pull request #1 from vikashthakur3438/feature1
+[32m|[m[32m/[m[36m|[m [33m|[m 
+[32m|[m * [33m|[m [33m15e5c7e[m add new featare
+[32m|[m[32m/[m [33m/[m  
+* [33m|[m [33mdba3954[m .index.css
+* [33m|[m [33mcdb21b2[m .index.html
+* [33m|[m [33m18ef573[m add initial files
+ [33m/[m  
+* [33m92dc110[m Initial commit
