@@ -1,0 +1,16 @@
+/* div{
+    height:120px;
+    width: 120px;
+    border: 2px solid yellow;
+    background-color: blue;
+    color:black; */
+/* } */
+.dark {
+    background-color: black;
+    color: white;
+}
+
+.light {
+    background-color: white;
+    color: black;
+}
